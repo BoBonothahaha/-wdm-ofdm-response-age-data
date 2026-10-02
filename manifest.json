@@ -1,0 +1,86 @@
+{
+  "status": "frozen_data_release_v1",
+  "source_figure_manifest_sha256": "29d0a7d15b1fd3251a07f61346268e5b0960a04dc7bfae71a060fe0dd33d0eed",
+  "source_supplement_manifest_sha256": "7b6cd220290ea6722d409f5be79badef4b01782f14029ce3a6330774a69a2748",
+  "files": [
+    {
+      "path": "data/plotting/Data_File_1_Fig2_matrix.csv",
+      "bytes": 1554,
+      "sha256": "b1aa51a91423f934923ebeed0b5a775e86af4808f96324d2655be2a747b43090",
+      "data_rows": 24
+    },
+    {
+      "path": "data/plotting/Data_File_2_Fig3_age_zero.csv",
+      "bytes": 450,
+      "sha256": "0f185a8e32a04c283ccafc9fb9505b541373662d4af9d72042d096bd2e51afa5",
+      "data_rows": 8
+    },
+    {
+      "path": "data/plotting/Data_File_3_Fig4_information_age.csv",
+      "bytes": 369,
+      "sha256": "f73c0ca7983173fea05ba27f7be10b70384ef6cab3c23ca1c882ecf720597448",
+      "data_rows": 6
+    },
+    {
+      "path": "data/plotting/Data_File_4_Fig5_criteria_retention.csv",
+      "bytes": 2645,
+      "sha256": "47c1b96f8e30baf4adcd67c2662eb9e96a4194d3de9f00a1a008d6dfa1eddecd",
+      "data_rows": 24
+    },
+    {
+      "path": "data/supporting/e145_comparators.csv",
+      "bytes": 2380,
+      "sha256": "955c27666747dd960b0a4fb0672b3fe57c9fc1028384a99d641a0e28a24bbfc8",
+      "data_rows": 5
+    },
+    {
+      "path": "data/supporting/e145_spectral_checks.csv",
+      "bytes": 849,
+      "sha256": "a9a4434371df9143bddf16879d355614c259bb1b2596b8272269e4510ce7ca38",
+      "data_rows": 8
+    },
+    {
+      "path": "data/supporting/response_qualification.csv",
+      "bytes": 1515,
+      "sha256": "dfeba850181b700026cb5a9e22ee234b6bc2f32f14e1373f63a163da16d9b810",
+      "data_rows": 3
+    },
+    {
+      "path": "data/supporting/response_curve_samples.csv",
+      "bytes": 768257,
+      "sha256": "88928395b29833a882c0a9e9883f55e23942d55868e6335980ad7d5169ed3894",
+      "data_rows": 4503
+    },
+    {
+      "path": "data/supporting/cell_metrics.csv",
+      "bytes": 7207,
+      "sha256": "9f9591a5901c2a4f9cbf047cc8f33b2afd8ed76c08f1f566cd7fc1e657308951",
+      "data_rows": 24
+    },
+    {
+      "path": "data/supporting/control_metrics.csv",
+      "bytes": 44510,
+      "sha256": "dcbe90f1c696444ead382282944ec00229c4f1cf0026307ee612c6eaad44e192",
+      "data_rows": 336
+    },
+    {
+      "path": "data/supporting/predictions.csv",
+      "bytes": 121821,
+      "sha256": "361d27598179e756a0f617a7d1a4b5f7bec778bf481a3dbd9d4545f2eceec937",
+      "data_rows": 2424
+    },
+    {
+      "path": "data/supporting/contrasts.json",
+      "bytes": 470,
+      "sha256": "f715bcdf515546984235e21ad53577ddf93e7bf91869f1a0a17dbf35c0ca41c4",
+      "data_rows": null
+    },
+    {
+      "path": "data/supporting/finite_record_spectrum.csv",
+      "bytes": 1683,
+      "sha256": "04c10f866fb96aaebe45eb6a38a08b0390bc574ef124dd1f10ff967d2b39b8e0",
+      "data_rows": 8
+    }
+  ],
+  "scientific_metrics_recomputed": false
+}

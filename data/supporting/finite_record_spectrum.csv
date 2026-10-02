@@ -1,0 +1,9 @@
+dataset,source,branch,run_label,raw_ac_power,raw_outside_half_Fout_ac_power_fraction,raw_low_band_ac_power_fraction,split_reconstruction_relative_rms_error,split_edge_in_Fout,diagnostic_role,physical_Hz_claim
+A,nominal,left,tlrm_i33_response_age_A_nominal_v1,1.1948567690565716e-07,0.998574863877267,0.001425136122732984,4.778238198180178e-16,0.5,report_only_digital_raw_magnitude,False
+A,nominal,right,tlrm_i33_response_age_A_nominal_v1,1.1866361502600141e-07,0.9985096608455977,0.0014903391544023314,4.724300214512164e-16,0.5,report_only_digital_raw_magnitude,False
+A,center_only,left,tlrm_i33_response_age_A_center_only_v1,7.706582839023472e-12,0.9986323554341489,0.001367644565851145,4.780497226680938e-16,0.5,report_only_digital_raw_magnitude,False
+A,center_only,right,tlrm_i33_response_age_A_center_only_v1,7.658565803846826e-12,0.9984686939174814,0.0015313060825186131,4.728289623785968e-16,0.5,report_only_digital_raw_magnitude,False
+B,nominal,left,tlrm_i34_response_age_B_nominal_v1,1.1937944266568797e-07,0.998666332551373,0.0013336674486269517,4.779629316398385e-16,0.5,report_only_digital_raw_magnitude,False
+B,nominal,right,tlrm_i34_response_age_B_nominal_v1,1.1896605907945813e-07,0.9985024900276241,0.0014975099723758545,4.726771945517737e-16,0.5,report_only_digital_raw_magnitude,False
+B,center_only,left,tlrm_i34_response_age_B_center_only_v1,7.709130349577195e-12,0.9986159017267221,0.0013840982732779006,4.77935300358134e-16,0.5,report_only_digital_raw_magnitude,False
+B,center_only,right,tlrm_i34_response_age_B_center_only_v1,7.660198076892264e-12,0.99847456709696,0.0015254329030399694,4.726971325343184e-16,0.5,report_only_digital_raw_magnitude,False

@@ -1,0 +1,9 @@
+dataset_id,source,branch,out_of_band_output_ac_power_fraction,decomposition_relative_rms_error,spectral_gate_passed,expected_single_failure,passed
+train_i27,nominal,left,0.008158085373772066,1.4702594227578426e-14,True,False,True
+train_i27,nominal,right,0.006939636306260649,1.6928769288044902e-14,True,False,True
+train_i27,center_only,left,0.007439845553959233,1.8910163688042406e-14,True,False,True
+train_i27,center_only,right,0.007096214890048937,1.725131320674782e-14,True,False,True
+fresh_test_i29,nominal,left,0.010445660373102338,1.7882489721042074e-14,False,True,True
+fresh_test_i29,nominal,right,0.007052831116620364,1.813930546396944e-14,True,False,True
+fresh_test_i29,center_only,left,0.007480631218635264,1.9475911581579615e-14,True,False,True
+fresh_test_i29,center_only,right,0.007134824412385734,1.8265915981915535e-14,True,False,True

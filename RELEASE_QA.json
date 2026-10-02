@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": {
+    "thirteen_source_pinned_files": true,
+    "no_derived_metrics": true,
+    "sha256sums_complete": true,
+    "archive_integrity": true,
+    "matrix_24_unique_cells": true,
+    "all_101_targets": true,
+    "prediction_support_10_to_110": true,
+    "fourteen_controls_per_cell": true,
+    "age_zero_pass_older_fail": true,
+    "older_three_predicates_fail": true,
+    "table2_all_cells_exact_4dp": true,
+    "abstract_and_results_key_values": true,
+    "B1_mixed_retention": true,
+    "figure_source_qa_pass": true,
+    "supplement_qa_24_pass": true,
+    "no_fake_deposit_link": true
+  },
+  "package_zip_sha256": "f5542076e386b17903c849f1b458ad047b219ba946b143630a59ca27335358a8",
+  "package_zip_bytes": 350907,
+  "audited_manuscript_sha256": "7d3e484c7b823b4f1b1aa182c3b98d5f8e407f78e72620a46d913fca2afc8db6",
+  "audit_scope": "frozen candidate, working manuscript tables and key quantitative sentences; publication link and author-final policy review remain pending"
+}

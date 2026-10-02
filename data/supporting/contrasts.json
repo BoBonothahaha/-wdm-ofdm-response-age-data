@@ -1,0 +1,20 @@
+{
+  "A": {
+    "C_R": -0.22521369678685332,
+    "C_A": -0.6654429965948097,
+    "U0_reference_and_controls_pass": true
+  },
+  "B": {
+    "C_R": -0.22953332880871868,
+    "C_A": -0.709355327377067,
+    "U0_reference_and_controls_pass": true
+  },
+  "C_R_replication": {
+    "same_nonzero_sign": true,
+    "positive_reference_replication": true
+  },
+  "C_A_replication": {
+    "same_nonzero_sign": true,
+    "positive_reference_replication": true
+  }
+}
